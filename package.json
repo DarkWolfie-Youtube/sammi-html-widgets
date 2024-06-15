@@ -1,7 +1,7 @@
 {
   "name": "sammi-html-widgets",
   "version": "1.0.0",
-  "description": "A porject containing various HTML Overlays for OBS x SAMMI",
+  "description": "A project containing various HTML Overlays for OBS x SAMMI",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/darkwolfie-youtube/sammi-html-widgets/issues"
   },
-  "homepage": "https://github.com/darkwolfie-youtube/sammi-html-widgets#readme"
+  "homepage": "https://github.com/darkwolfie-youtube/sammi-html-widgets#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "request": "^2.88.2",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  }
 }
