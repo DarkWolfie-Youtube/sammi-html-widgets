@@ -1,0 +1,25 @@
+{
+  "name": "sammi-html-widgets",
+  "version": "1.0.0",
+  "description": "A porject containing various HTML Overlays for OBS x SAMMI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkwolfie-youtube/sammi-html-widgets.git"
+  },
+  "keywords": [
+    "sammi",
+    "obs",
+    "html",
+    "overlay"
+  ],
+  "author": "DarkWolfie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkwolfie-youtube/sammi-html-widgets/issues"
+  },
+  "homepage": "https://github.com/darkwolfie-youtube/sammi-html-widgets#readme"
+}
